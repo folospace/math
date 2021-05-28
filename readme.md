@@ -1,6 +1,7 @@
 
 ## Math Combination 
 `go run combination.go`
+
 `from [1 2 3 4 5] take 2 numbers, list all combination:`
 - [1 2]
 - [1 3]
