@@ -1,8 +1,8 @@
 
 ## Math Combination 
-`go run combination.go`
+from [1 2 3 4 5] take 2 numbers, find all combinations:
 
-`from [1 2 3 4 5] take 2 numbers, find all combinations:`
+`go run combination.go`
 - [1 2]
 - [1 3]
 - [1 4]
